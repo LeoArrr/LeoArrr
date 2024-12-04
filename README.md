@@ -1,10 +1,9 @@
-# Hi, I'm Leo! 👋
-## Pleasure to have you here!
+# Hi, I'm [Your Name]! 👋  
+🌍 **Passionate about making the internet more accessible.**  
+💻 **Proficient in JavaScript and React. Currently learning TypeScript.**  
 
 ![GitHub followers](https://img.shields.io/github/followers/LeoArrr?label=Follow&style=social)
 ![Profile views](https://komarev.com/ghpvc/?username=LeoArrr&color=blue)
-
-![Coding](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeoArrr&show_icons=true&theme=radical)
 
