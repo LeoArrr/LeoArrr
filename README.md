@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name]! 👋  
+# Hi, I'm Leo! 👋  
 🌍 **Passionate about making the internet more accessible.**  
 💻 **Proficient in JavaScript and React. Currently learning TypeScript.**  
 
