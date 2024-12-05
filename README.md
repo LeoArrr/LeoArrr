@@ -5,7 +5,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/LeoArrr?label=Follow&style=social)
 ![Profile views](https://komarev.com/ghpvc/?username=LeoArrr&color=blue)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeoArrr&show_icons=true&theme=radical)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LeoArrr&theme=react-dark)
 
